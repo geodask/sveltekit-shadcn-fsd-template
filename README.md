@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn-Svelte](https://img.shields.io/badge/Shadcn_Svelte-000000?style=for-the-badge&logo=shadcnui&logoColor=FF3E00)](https://www.shadcn-svelte.com/)
-[![FSD](https://img.shields.io/badge/Feature_Sliced_Design-FF1E2D?style=for-the-badge&logo=slice&logoColor=white)](https://feature-sliced.github.io/)
+[![FSD](https://img.shields.io/badge/Feature_Sliced_Design-FF1E2D?style=for-the-badge&logo=slice&logoColor=white)](https://feature-sliced.github.io/documentation/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A template for quickly bootstrapping SvelteKit projects with Shadcn UI components and Feature-Sliced Design (FSD) architecture.
@@ -152,7 +152,7 @@ Shadcn configuration:
 
 ## Feature-Sliced Design (FSD)
 
-[Feature-Sliced Design](https://feature-sliced.github.io/) is a methodology for organizing code in frontend applications. This template implements FSD with a slight adaptation to work well with SvelteKit.
+[Feature-Sliced Design](https://feature-sliced.github.io/documentation/) is a methodology for organizing code in frontend applications. This template implements FSD with a slight adaptation to work well with SvelteKit.
 
 ### Layer Dependencies
 
