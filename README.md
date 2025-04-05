@@ -152,7 +152,7 @@ Shadcn configuration:
 
 ## Feature-Sliced Design (FSD)
 
-[Feature-Sliced Design](https://feature-sliced.design/) is a methodology for organizing code in frontend applications. This template implements FSD with a slight adaptation to work well with SvelteKit.
+[Feature-Sliced Design](https://feature-sliced.github.io/) is a methodology for organizing code in frontend applications. This template implements FSD with a slight adaptation to work well with SvelteKit.
 
 ### Layer Dependencies
 
